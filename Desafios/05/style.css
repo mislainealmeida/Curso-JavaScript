@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(162, 190, 233, 0.637);
+    font: normal 15pt Arial;
+    margin: auto;
+}
+header{
+    color: rgb(10, 9, 9);
+    text-align: center;
+    margin: auto;
+
+}
+
+
+footer{
+    color: rgb(10,9,9);
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+    padding: 20px;
+}

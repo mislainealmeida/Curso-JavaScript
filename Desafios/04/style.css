@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    font: 15px Arial black;
+    margin: center;
+    text-align: center;   
+}
+
+section{    
+    margin: auto;
+    padding: 15px;
+    text-align: center; 
+}
+
+input{
+    height: 40px;
+    width: 160px;   
+    background-image: linear-gradient(to right, rgb(176, 176, 223), white);
+    border-radius: 8px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: rgba(155, 155, 241, 0.199);
+}
