@@ -1,2 +1,2 @@
 # Desafios-JavaScript
- Desafios propostos no Curso de JavaScript no canal Curso em Vídeo. 
+ Desafios propostos e exercícios resolvidos no Curso de JavaScript doCurso em Vídeo. 
